@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background: #333944;
+}
+
+h1{
+    color:white;
+}
+
+.button{
+    background-color: #26ae26;
+    border:none;
+    color:white;
+    padding:15px 30px;
+    /*  means that 15px from up-down and 30px from left-right */
+    text-align: center;
+}
